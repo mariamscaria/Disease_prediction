@@ -1,1 +1,3 @@
-# Disease_prediction
+# Disease Prediction
+
+This project focuses on analyzing the heart disease dataset using pandas for data inspection and seaborn for data visualization. Key tasks include checking for missing values, inspecting data types, categorizing features into numeric and categorical types, and converting appropriate columns. The project visualizes relationships between various health metrics (such as blood pressure, cholesterol, heart rate) and heart disease conditions through histograms, count plots, and violin plots, providing insights into the distribution and correlation of health factors with heart conditions.
